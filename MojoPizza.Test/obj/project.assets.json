@@ -5884,11 +5884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rupawar\\source\\ORXE\\Mojo Pizza\\MojoPizza.Test\\MojoPizza.Test.csproj",
+      "projectUniqueName": "C:\\Users\\rupawar\\source\\ORXE\\Mojo-Pizza\\MojoPizza.Test\\MojoPizza.Test.csproj",
       "projectName": "MojoPizza.Test",
-      "projectPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo Pizza\\MojoPizza.Test\\MojoPizza.Test.csproj",
+      "projectPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo-Pizza\\MojoPizza.Test\\MojoPizza.Test.csproj",
       "packagesPath": "C:\\Users\\rupawar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo Pizza\\MojoPizza.Test\\obj\\",
+      "outputPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo-Pizza\\MojoPizza.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5907,8 +5907,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\rupawar\\source\\ORXE\\Mojo Pizza\\Mojo Pizza\\Mojo Pizza.csproj": {
-              "projectPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo Pizza\\Mojo Pizza\\Mojo Pizza.csproj"
+            "C:\\Users\\rupawar\\source\\ORXE\\Mojo-Pizza\\Mojo Pizza\\Mojo Pizza.csproj": {
+              "projectPath": "C:\\Users\\rupawar\\source\\ORXE\\Mojo-Pizza\\Mojo Pizza\\Mojo Pizza.csproj"
             }
           }
         }
